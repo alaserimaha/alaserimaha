@@ -13,7 +13,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=alaserimaha&show_icons=true&locale=en" alt="alaserimaha" width="45%" style="display:inline-block; vertical-align:top;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alaserimaha&show_icons=true&locale=en&layout=compact" alt="alaserimaha" width="30%" style="display:inline-block; vertical-align:top;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alaserimaha&show_icons=true&locale=en&layout=compact" alt="alaserimaha" width="35%" style="display:inline-block; vertical-align:top;"/>
 </p>
 
 
