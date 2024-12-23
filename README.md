@@ -33,6 +33,8 @@
 
 <br clear="both">
 
+[//]: # (This may be the most platform independent comment)
+
 <img src="https://raw.githubusercontent.com/alaserimaha/alaserimaha/output/snake.svg" alt="Snake animation" />
 
 
