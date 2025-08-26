@@ -10,6 +10,7 @@
 
 - 💬 Ask me about **LARAVEL , PHP , PYTHON**
 
+
 - 📚 I’m currently studying MSc in CS at **King Khalid University**
 
 - 🌱 I’m currently learning **NLP, LLMs, and pre-trained models.**
