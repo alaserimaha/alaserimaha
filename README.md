@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at **Imam Abdulrahman Bin Faisal University**
 
-- 💬 Ask me about **LARAVEL , PHP , PYTHON**
+- 💬 Ask me about **LARAVEL , PHP ,PYTHON**
 
 
 - 📚 I’m currently studying MSc in CS at **King Khalid University**
