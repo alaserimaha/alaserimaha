@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **NLP, LLMs, and pre-trained models.**
 
-- 📫 How to reach me **alaserimaha@gmail.com**
+- 📫 How to reach me **alaserimaha@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
