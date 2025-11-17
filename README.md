@@ -13,7 +13,7 @@
 
 - 📚 I’m currently studying MSc in CS at **King Khalid University**
 
-- 🌱 I’m currently learning **NLP, LLMs, and pre-trained models.**
+- 🌱 I’m currently learning **NLP, LLMs, and pre-trained models**
 
 - 📫 How to reach me **alaserimaha@gmail.com** 
 
