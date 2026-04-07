@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MAHA NASSER</h1>
-<h3 align="center">Backend Developer , AI Researcher</h3>
+<h3 align="center"> software engineer and full stack website developer.</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaserimaha" alt="alaserimaha" /></a> </p>
