@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/alaserimaha" target="blank"><img src="https://img.shields.io/twitter/follow/alaserimaha?logo=twitter&style=for-the-badge" alt="alaserimaha" /></a> </p>
 
-- 🔭 I’m currently working at **Imam Abdulrahman Bin Faisal University**
+- 🔭 I’m currently working as  ** Laravel Developer**
 
 - 💬 Ask me about **LARAVEL , PHP ,PYTHON**
 
